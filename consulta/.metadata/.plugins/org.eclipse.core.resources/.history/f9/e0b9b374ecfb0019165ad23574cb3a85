@@ -1,0 +1,5 @@
+package com.cpe.consulta.model;
+
+public class Consulta {
+
+}

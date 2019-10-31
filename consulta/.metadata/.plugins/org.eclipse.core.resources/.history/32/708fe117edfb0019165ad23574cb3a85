@@ -1,0 +1,12 @@
+package com.cpe.consulta.model;
+
+public class Consulta {
+	
+	private Integer id;
+	private String nomePaciente;
+	private String nomeMedico;
+	private String exame;
+	private String data;	
+	private String horario;
+
+}
